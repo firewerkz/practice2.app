@@ -51,6 +51,14 @@ features                                  :
     description                           : Choose a playlist to listen to during your session. This is saved for future use.
     fontawesome_icon_name                 : play-circle
 
+  - title                                 : Works on iPadOS and macOS
+    description                           : Use split screen and keyboard shortcuts.
+    fontawesome_icon_name                 : laptop
+
+  - title                                 : Cloud Syncing
+    description                           : Move between iPhone, iPad, and Mac. Created sessions are synced accross devices.
+    fontawesome_icon_name                 : sync
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
