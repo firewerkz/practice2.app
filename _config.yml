@@ -56,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : laptop
 
   - title                                 : Cloud Syncing
-    description                           : Move between iPhone, iPad, and Mac. Created sessions are synced accross devices.
+    description                           : Move between iPhone, iPad, and Mac. Created sessions are synced across devices.
     fontawesome_icon_name                 : sync
 
   - title                                 : # New Feature Title
