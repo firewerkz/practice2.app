@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "FZ69GNY584.Firewerkz.Practice",
-                "paths": ["/code/*", "/session/*"]
+                "paths": ["/code/*", "/session/*", "/share*"]
             }
         ]
     }
