@@ -7,13 +7,13 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://firewerkz.dev                     # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A simple practice session timer.
+app_description                           : An easy to use, flexible session timer.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,29 +35,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : A simple session timer.
-    description                           : Create session timers to keep your practice sessions on track.
+  - title                                 : Timed sessions
+    description                           : Use session timers to keep your practice, workout or work sessions on track.
     fontawesome_icon_name                 : clock
     
-  - title                                 : Simple to add new sessions
-    description                           : Add some example sessions to get started.
+  - title                                 : Customise each session
+    description                           : Simple to add and customise each session to help you meet your goal.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Listen to music during sessions
-    description                           : Listen to music during your session and skip or repeat tracks.
+  - title                                 : Add music  to your sessions
+    description                           : Listen to music, or play along to tracks during your practice session. 
     fontawesome_icon_name                 : music
 
   - title                                 : Select a session playlist
-    description                           : Choose a playlist to listen to during your session. This is saved for future use.
+    description                           : Choose a playlist to listen to during your session. You can chose a different playlist for each session which is saved for future use.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Works on iPadOS and macOS
-    description                           : Use split screen and keyboard shortcuts.
+    description                           : Use split screen to follow along with another app and keyboard shortcuts for quick access to selected functions. 
     fontawesome_icon_name                 : laptop
 
   - title                                 : Cloud Syncing
-    description                           : Move between iPhone, iPad, and Mac. Created sessions are synced across devices.
+    description                           : Sign in with Apple and share your sessions across all your iPhone, iPad and Mac devices.
     fontawesome_icon_name                 : sync
+
+  - title                                 : Share sessions
+    description                           : Share your favourite sessions with friends.
+    fontawesome_icon_name                 : share-square
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
