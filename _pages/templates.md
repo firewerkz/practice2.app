@@ -1,3 +1,4 @@
+---
 layout: page
 title: Session Templates
 include_in_header: false
